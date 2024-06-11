@@ -22,7 +22,9 @@
 
 1. Поднятие в JavaScript
    https://www.notion.so/JavaScript-477d87c4f2544725bfc6aba64c6b6038?pvs=4
-2.
+2. Объектно-ориентированное программирование (ООП) в JavaScript
+   https://www.notion.so/JavaScript-7bd8aecfc70c433f909ae0ffe4ef7c9c?pvs=4
+3.
    
 
 
