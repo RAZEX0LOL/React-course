@@ -21,14 +21,14 @@
 ## Основные темы курса
 
 1. Поднятие в JavaScript
-   
    https://www.notion.so/JavaScript-477d87c4f2544725bfc6aba64c6b6038?pvs=4
-3. Объектно-ориентированное программирование (ООП) в JavaScript
-   
+2. Объектно-ориентированное программирование (ООП) в JavaScript
    https://www.notion.so/JavaScript-7bd8aecfc70c433f909ae0ffe4ef7c9c?pvs=4
-5. Введение в React
-   
+3. Введение в React 
    https://www.notion.so/React-a2b54eeab26c43cfa1ccd5537e383f26?pvs=4
+4. Начало работы с React
+   https://www.notion.so/React-751d60e6e6654e40bd253975e1de756c?pvs=4
+
    
 
 
